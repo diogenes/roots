@@ -39,7 +39,7 @@
     "chai": "^4.0.2",
     "chai-as-promised": "^7.0.0",
     "chai-fs": "^2.0.0",
-    "coffeelint": "^1.15.7",
+    "coffeelint": "^2.1.0",
     "coveralls": "^2.13.1",
     "glob": "^7.1.2",
     "istanbul": "^0.4.3",
