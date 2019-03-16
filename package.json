@@ -24,7 +24,7 @@
     "lodash": "^4.17.4",
     "micromatch": "^3.0.2",
     "mkdirp": "0.5.x",
-    "npm": "^5.0.4",
+    "npm": "^6.8.0",
     "open": "0.0.5",
     "osenv": "0.1.x",
     "readdirp": "2.x",
