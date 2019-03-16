@@ -22,6 +22,7 @@ class CLI extends EventEmitter
   ###
 
   constructor: (opts = {}) ->
+    super(opts)
     @parser = new ArgParse
       version: pkg.version
       description: pkg.description

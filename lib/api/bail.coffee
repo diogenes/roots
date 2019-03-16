@@ -1,5 +1,6 @@
 class RootsError extends Error
   constructor: (@name, @message, @ext, @code) ->
+    super(@message)
     Error.call(@)
     Error.captureStackTrace(@, @constructor)
 
