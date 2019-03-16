@@ -12,7 +12,7 @@
   "dependencies": {
     "accord": "^0.30.0",
     "argparse": "1.0.10",
-    "browser-sync": "^2.18.12",
+    "browser-sync": "^2.26.3",
     "charge": "0.1.x",
     "chokidar": "^1.7.0",
     "coffee-script": "^1.12.6",
