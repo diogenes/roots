@@ -15,7 +15,7 @@
     "browser-sync": "^2.26.3",
     "charge": "0.1.x",
     "chokidar": "^2.1.2",
-    "coffee-script": "^1.12.6",
+    "coffeescript": "^2.3.2",
     "colors": "1.x",
     "configstore": "^3.1.0",
     "graceful-fs": "^4.1.9",
