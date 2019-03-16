@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "accord": "^0.30.0",
-    "argparse": "1.x",
+    "argparse": "1.0.10",
     "browser-sync": "^2.18.12",
     "charge": "0.1.x",
     "chokidar": "^1.7.0",
